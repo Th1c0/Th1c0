@@ -1,6 +1,6 @@
 - 👋 Meu nome é Thiago Doria Rego
-- 👀 Sou enfermeiro de formação, porém estudo programação há 6 meses
-- 🌱 Me reencontrei na áerea de tecnologia, a qual sempre amei
+- 👀 Sou Desenvolvedor full stack, graduando em engenharia de software, além de mestre em Enfermagem pela UFRJ
+- 🌱 Me reencontrei na área de tecnologia, mas aplico meus aprendizados para melhorar a saúde 
 - 💞️ Estou disposto a aprender cada vez mais, aceitando todo desafio que me é oferecido
 - 📫 Todos podem me encontrar no Linkedin, Intagram (th1c0) ou Facebook. 
 
