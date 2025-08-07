@@ -1,8 +1,9 @@
 - 👋 Meu nome é Thiago Doria Rego
-- 👨‍💻 Sou Analista e desenvolvedor full stack, graduando em engenharia de software
-- 👨‍⚕️ Sou formado em enfermagem, fiz residência em pediatria na Fiocruz e mestrado pela UFRJ
-- 🌱 Me reencontrei na área de tecnologia e utilizo de minhas habilidades para melhorar a saúde no âmbito tecnológico
-- 💞️ Estou disposto a aprender cada vez mais, aceitando todo desafio que me é oferecido
+- 👨‍💻 Graduando de engenharia de software
+- 👨‍⚕️ Enfermeiro educador do Hospital Samaritano, trabalho com simulações e desenvolvedo soluções para saúde e educação
+- 🧑‍🎓 Sou formado em enfermagem pela UFF, fiz residência em pediatria na Fiocruz e mestrado pela UFRJ
+- 🌱 Me reencontrei na área de tecnologia e utilizo de minhas habilidades para melhorar a saúde e educação
+- 💞️ Disposto a aprender cada vez mais, aceitando todo desafio
 - 📫 Todos podem me encontrar no Linkedin, Intagram (th1c0) ou Facebook. 
 
 <!---
